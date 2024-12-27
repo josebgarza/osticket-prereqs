@@ -51,11 +51,9 @@ Now that we have the ISS applied, we will begin installing the PHP manager file.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screen Shot 2024-12-27 at 5 35 00 PM](https://github.com/user-attachments/assets/7fa9d38b-e9b9-438e-9531-570bb0c4c0de)
+
+Next, find the Rewrite Module (rewrite_amd64_en-US.msi), from the "Download Now" link. Agree to all the terms and install.
 </p>
 <br />
 
