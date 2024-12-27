@@ -27,19 +27,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-First, start by creating a Windows 10 Virtual Machine (VM) in Azure. The username and password can be anything you'd like, just make sure to take note of it.
+![Screen Shot 2024-12-27 at 3 49 03 PM](https://github.com/user-attachments/assets/47a717c8-1561-48e5-9538-1c13940cb73d)
+First, start by creating a Windows 10 Virtual Machine (VM) in Azure with at minimum, 2 vcpus and 8 GiB memory. The username and password can be anything you'd like, just make sure to take note of it.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screen Shot 2024-12-27 at 3 53 29 PM](https://github.com/user-attachments/assets/1ef52ea1-ecb4-45ec-885d-2df8015265b4)
+Copy the public IP address of your VM and go to the Windows app. From there, you will add a new PC, paste the IP address, and then you can name it "osTicket".
 </p>
 <br />
 
