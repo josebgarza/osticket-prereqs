@@ -45,11 +45,9 @@ Next, we must install/enable IIS in Windows with CGI. Go to your search bar > Ty
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screen Shot 2024-12-27 at 5 20 42 PM](https://github.com/user-attachments/assets/9257189c-002b-4b8f-b597-99b06552463e)
+
+Now that we have the ISS applied, we will begin installing the PHP manager file. The PHP manager is the programming lanuguage that will allow us to run the osTicket software to run off a web browser. To download, run the PHP program from the files found at the beginning of this demonstration. Agree to all the terms and it will now be in the operating system.
 </p>
 <br />
 
